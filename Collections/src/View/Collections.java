@@ -13,7 +13,7 @@ public class Collections {
         // Array for list collection
         String aliens[] = {"Venusan", "Earthling", "Martian", "Neptunian", "Plutonian"};
         // Arrays for map collection
-        String islands[] = {"Puerto Rico", "Antigua", "Jamacia", "Haiti"};
+        String islands[] = {"Puerto Rico", "Antigua", "Jamaica", "Haiti"};
         String amounts[] = {"10000", "500", "75", "846"};
         // Array for set collection
         String cars[] = {"Bugatti", "Corvette", "McLaren", "Lotus", "Ferrari"};
